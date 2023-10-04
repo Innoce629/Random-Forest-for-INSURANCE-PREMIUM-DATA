@@ -5,7 +5,7 @@
  > The second dataset contains information about health insurance charges.A person is offered insurance depending on a number of factors like age, bmi or if the person is a smkoker or non-smoker.
  > I did some feature engineering and divided the age and bmi columns into different categories
  
-## Summary of Findings(Dataset 1)
+## Summary of Findings(Dataset 2)
 
 
 > A majority of the smokers belong to the old_adults bracket and the young_adults are the least.
